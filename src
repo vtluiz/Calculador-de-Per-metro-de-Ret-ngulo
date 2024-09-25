@@ -1,0 +1,6 @@
+/CalcularPerimetro
+│
+├── /src
+│   └── calcular_perimetro.py
+├── .gitignore
+└── README.md
